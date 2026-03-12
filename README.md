@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Hello, my name is Felipe Rodriguez from Puerto Montt, Chile. I am a student of Computer Engineering and a Higher Technician in Computer Science. Currently, I work as a TI consultant, developer, and web page creator.
+Hello, I'm Felipe Rodriguez from Puerto Montt, Chile.  
+I'm a Computer Engineering student and a Higher Technician in Computer Science, with experience in IT support, web development, and digital solutions.
 
-I have excellent ability to create solutions and provide immediate response to any scope a web project may have. That is why my mission is to help companies have a modern and fresh website to improve their corporate image.
+I enjoy building useful, clean, and practical solutions that help people and businesses improve their systems and online presence.
 
-Remember that updates and renovations are constant over time. Do not lag behind and if you want a change, let's talk and I can help you grow and improve your business image.
+Forever a learner in life and technology.
