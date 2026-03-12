@@ -1,8 +1,23 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-Hello, I'm Felipe Rodriguez from Puerto Montt, Chile.  
-I'm a Computer Engineering student and a Higher Technician in Computer Science, with experience in IT support, web development, and digital solutions.
+<p align="center">
+  I'm Felipe Rodriguez from Puerto Montt, Chile.
+</p>
 
-I enjoy building useful, clean, and practical solutions that help people and businesses improve their systems and online presence.
+<p align="center">
+  Technology, practical thinking, and continuous learning.
+</p>
 
-Forever a learner in life and technology.
+<p align="center">
+  I like building useful things, improving systems, and turning ideas into something clear and simple.
+</p>
+
+<p align="center">
+  <em>A lifelong learner in life and technology.</em>
+</p>
+
+---
+
+<p>
+  Curious by nature. Interested in IT, web projects, and digital tools that make a real difference.
+</p>
